@@ -1,2 +1,2 @@
-Django first TextUtils Project
+#Django first TextUtils Project
 Text analyzer
